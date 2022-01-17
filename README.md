@@ -40,4 +40,4 @@ To duplicate this project, open the [WiFibox.ino](https://github.com/Engineering
 
 ## Acknoledgements
 
-Thank you @julisa99 for the idea of the DIY lovebox, including using GitHub Gist to transfer messages between the Weimos D1 Mini. Her original project can be found here lisaih.de/lovebox/ under the _MIT License_
+Thank you ![julisa99](https://github.com/julisa99) for the idea of the DIY lovebox, including using GitHub Gist to transfer messages between the Weimos D1 Mini. Her original project can be found here lisaih.de/lovebox/ under the _MIT License_
