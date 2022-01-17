@@ -37,3 +37,7 @@ To program the game, we used the Arduino IDE. The LCD screen menu and selections
 To program the game, i used the Arduino IDE. The OLED screen was programmed to display both text and binary images. A binary converted can be found here: https://www.dcode.fr/binary-image. The messages were sent using a private 'gist'. In the private gist, you will notice 3 lines. The first is a number, the second is a letter and the third is where you message begins. Let me explain - Each time you update the gist, you change the number, the ESP8266 will then detect the id change and then read the second line. If it detects a 't', it will draw a string based on the message. If it detects a 'b', it will draw the pixels everytime it detects a '1' in the message, thus displaying that respective image. I recommend editing your image in photoshop to be 128x64 pixels before uploading it to the board.
 
 To duplicate this project, open the [WiFibox.ino](https://github.com/EngineeringDads/WiFi-Messagebox/blob/main/Code/WiFiBox.ino "WiFibox.ino") and upload it to the board, using your computer and a mini-usb cable.
+
+## Acknoledgements
+
+Thanks you @julisa99 for the idea of the DIY lovebox, including using GitHub Gist to transfer messages between the Weimos D1 Mini. Her original project can be found here lisaih.de/lovebox/ under the _MIT License_
