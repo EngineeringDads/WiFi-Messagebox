@@ -1,7 +1,5 @@
 # WiFi-Messagebox
 
-Full project video can be found at: https://www.youtube.com/watch?v=rMLxC14VNs4
-
 ![WiFi Message Box](https://github.com/EngineeringDads/WiFi-Messagebox/blob/main/Thumbnail.jpg?raw=true")
 
 # :love_letter: WiFi Message Box :love_letter:
